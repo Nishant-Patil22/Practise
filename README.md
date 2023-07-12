@@ -1,3 +1,3 @@
-# DSA Problems 
+# Array Problems 
 
-All types of problems are available here
+All types of Array problems are present here
